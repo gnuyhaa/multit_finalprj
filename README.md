@@ -8,6 +8,7 @@
 웹에서 주류 정보를 크롤링해서 자체 주류 데이터 수집 
 
 # 시연영상
+<img width="80%" src="https://github.com/gnuyhaa/multit_finalprj/assets/125522834/8600843a-6e4d-4dc9-91e4-1c866225452f"/>
 
 # Developers
 + 김아형
