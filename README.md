@@ -5,6 +5,9 @@
 + 2023.05.26 ~ 2023.07.05
 
 # Intro
+<p align="center">
+  <img width="300" alt="로고" src="https://github.com/gnuyhaa/multit_finalprj/assets/125522834/57157255-ad92-4db0-8f45-353d979d03c6">
+</p>
 
 
 **미술랭**
